@@ -11,3 +11,10 @@ Islamic(Moon) :   X        X       X
 Shamsi(Sun)   :   X        X       16
 
 Note : At least one value for each column must be entered and you can try any different combination.
+
+# How to Contribute
+## Improve accuracy of the algorithm
+## Design a better interface
+## More improvments on Functionalities
+### eg. Show important events,DoBs,inventions,... for the todays date and converted date based on user region.
+
